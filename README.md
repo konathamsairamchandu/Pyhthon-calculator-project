@@ -1,1 +1,1 @@
-# Pyhthon-calculator-project
+# Python-calculator-project
