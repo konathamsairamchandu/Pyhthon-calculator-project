@@ -65,6 +65,4 @@ Enter second number: 5
 Result: 15.0
 ```
 
-*React ❤️ if you're ready for the next project*
-
-Python Projects Series: https://whatsapp.com/channel/0029VaiM08SDuMRaGKd9Wv0L/1987
+*Thank you
